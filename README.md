@@ -3,7 +3,7 @@
 ## 仓库使用
 
 ```
-
+curl -sSL https://github.com/Sebastianhayashi/ign-cmake2/blob/main/build.sh | bash
 ```
 
 ## 基本信息
